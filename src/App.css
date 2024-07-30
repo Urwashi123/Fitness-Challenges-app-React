@@ -1,0 +1,26 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+.challenge {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.challenge.completed {
+  background-color: #e0ffe0;
+}
+
+.challenge.ongoing {
+  background-color: #ffe0e0;
+}
